@@ -45,3 +45,4 @@ if (check.get()==True):#if the value of check is true
 
 window.update()#update the window
 window.mainloop()#main command
+#End of the project
