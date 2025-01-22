@@ -44,7 +44,7 @@ if (check.get()==True):#if the value of check is true
             winsound.Beep(440, 1000)#beep sound
 
 window.update()#update the window
-
+Print("End of the code")
 
 
 
